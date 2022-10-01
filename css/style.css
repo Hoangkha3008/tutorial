@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Sparten', sans-serif;
+    
+}
+html {
+    font-size: 62.5%;
+}
+
+
+
+h1{
+    font-size: 5rem;
+    line-height: 64px;
+    color:#222;
+}
+h2{
+    font-size: 4.6rem;
+    line-height: 54px;
+    color:#222;
+}
+h4{
+    font-size: 2rem;
+    color:#222;
+}
+h6{
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+p {
+    font-size: 1.6rem;
+    color: #465b52;
+    margin: 15px 0 20px 0;
+}
+
+
+
+.section-m1 {
+    margin: 40px 0;
+}
+
+button.normal {
+    font-size: 1.4rem;
+    font-weight: 600;
+    padding: 15px 30px;
+    color: #000;
+    background-color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: 0.2s;
+}
+
+button.white{
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding: 11px 18px;
+    color: #fff;
+    background-color: transparent;
+    cursor: pointer;
+    border: 1px solid #fff;
+    outline: none;
+    transition: 0.2s;
+}
+
+/* responsive moobile */
+
+
+
